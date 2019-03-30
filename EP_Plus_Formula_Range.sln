@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EP_Plus_Formula_Range", "EP_Plus_Formula_Range\EP_Plus_Formula_Range.csproj", "{8E965E61-D18B-4555-BEFB-6F759E7824E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E965E61-D18B-4555-BEFB-6F759E7824E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E965E61-D18B-4555-BEFB-6F759E7824E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E965E61-D18B-4555-BEFB-6F759E7824E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E965E61-D18B-4555-BEFB-6F759E7824E4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C4BCED0B-D47E-4CC5-A6F4-1C0E6B285F11}
+	EndGlobalSection
+EndGlobal
